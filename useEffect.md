@@ -1,3 +1,8 @@
+---
+title: React - useEffect
+data: 29/02/2024
+---
+
 # useEffect
 
 **O que o `useEffect` faz?** Usamos o `useEffect` quando queremos monitorar as mudanças em uma variável, executando uma função cada vez que ocorrer uma mudança. O termo Effect vem de efeito colateral, sempre que uma variável do Array de dependências mudar, esse efeito colateral será executado.
